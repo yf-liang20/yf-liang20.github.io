@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yf-liang20.github.io</id>
     <title>Angry_Jakeson</title>
-    <updated>2021-03-10T15:13:47.157Z</updated>
+    <updated>2021-03-10T15:18:46.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yf-liang20.github.io"/>
     <link rel="self" href="https://yf-liang20.github.io/atom.xml"/>
@@ -10,6 +10,42 @@
     <logo>https://yf-liang20.github.io/images/avatar.png</logo>
     <icon>https://yf-liang20.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Angry_Jakeson</rights>
+    <entry>
+        <title type="html"><![CDATA[中国古代政治与文化第一讲]]></title>
+        <id>https://yf-liang20.github.io/post/zhong-guo-gu-dai-zheng-zhi-yu-wen-hua-di-yi-jiang/</id>
+        <link href="https://yf-liang20.github.io/post/zhong-guo-gu-dai-zheng-zhi-yu-wen-hua-di-yi-jiang/">
+        </link>
+        <updated>2021-03-10T15:17:37.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://yf-liang20.github.io/post-images/1615389475450.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西方思想经典与现代社会第二讲]]></title>
+        <id>https://yf-liang20.github.io/post/xi-fang-si-xiang-jing-dian-yu-xian-dai-she-hui-di-er-jiang/</id>
+        <link href="https://yf-liang20.github.io/post/xi-fang-si-xiang-jing-dian-yu-xian-dai-she-hui-di-er-jiang/">
+        </link>
+        <updated>2021-03-10T15:16:26.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://yf-liang20.github.io/post-images/1615389405246.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西方思想经典与现代社会第一讲]]></title>
+        <id>https://yf-liang20.github.io/post/xi-fang-si-xiang-jing-dian-yu-xian-dai-she-hui-di-yi-jiang/</id>
+        <link href="https://yf-liang20.github.io/post/xi-fang-si-xiang-jing-dian-yu-xian-dai-she-hui-di-yi-jiang/">
+        </link>
+        <updated>2021-03-10T15:15:49.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://yf-liang20.github.io/post-images/1615389375252.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[政治学原理第三讲]]></title>
+        <id>https://yf-liang20.github.io/post/zheng-zhi-xue-yuan-li-di-san-jiang/</id>
+        <link href="https://yf-liang20.github.io/post/zheng-zhi-xue-yuan-li-di-san-jiang/">
+        </link>
+        <updated>2021-03-10T15:13:50.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://yf-liang20.github.io/post-images/1615389252178.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[社会理论第三讲]]></title>
         <id>https://yf-liang20.github.io/post/she-hui-li-lun-di-san-jiang/</id>
@@ -62,28 +98,6 @@
         </link>
         <updated>2021-03-10T12:10:24.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://yf-liang20.github.io/post-images/1615378248283.png" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[政治学原理第二讲]]></title>
-        <id>https://yf-liang20.github.io/post/zheng-zhi-xue-yuan-li-di-er-jiang/</id>
-        <link href="https://yf-liang20.github.io/post/zheng-zhi-xue-yuan-li-di-er-jiang/">
-        </link>
-        <updated>2021-03-10T11:19:58.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://yf-liang20.github.io/post-images/1615375241456.png" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[政治学原理第一讲]]></title>
-        <id>https://yf-liang20.github.io/post/zheng-zhi-xue-yuan-li-di-yi-jiang/</id>
-        <link href="https://yf-liang20.github.io/post/zheng-zhi-xue-yuan-li-di-yi-jiang/">
-        </link>
-        <updated>2021-03-10T11:09:13.000Z</updated>
-        <summary type="html"><![CDATA[<p>&quot;代为 hello world!&quot;</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>&quot;代为 hello world!&quot;</p>
-<!-- more -->
-<figure data-type="image" tabindex="1"><img src="https://yf-liang20.github.io/post-images/1615374722673.png" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
