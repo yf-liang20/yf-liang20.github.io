@@ -760,10 +760,10 @@ a {
 }
 
       .sidebar {
-        width: 200px;
+        width: 250px;
       }
       .main-container {
-        margin-left: 200px;
+        margin-left: 250px;
       }
     
       .sidebar .top-container .site-nav {
