@@ -1,142 +1,163 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
- <head>
-     <meta charset="utf-8" />
-  <title>Angry_Jakeson</title>
-  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
-  <link rel="stylesheet" href="https://yf-liang20.github.io/styles/main.css" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
-   <script src="https://cdn.staticfile.org/highlight.js/9.15.9/highlight.min.js"></script>
-    <script>hljs.initHighlightingOnLoad();</script>
- </head>
- <body>
-     <div class="sidebar animated fadeInDown">
-   <div class="logo-title">
-    <div class="title">
-     <img src="https://yf-liang20.github.io/images/avatar.png?v=1615389501048" style="width:127px;" />
+<html>
+  <head>
+    <meta charset="utf-8" >
 
-     <h3 title=""><a href="/">secret base</a></h3>
+<title>Angry_Jakeson</title>
 
-     <div class="description">
-      <p>只是整理一些笔记资料。</p>
-     </div>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://yf-liang20.github.io/favicon.ico?v=1615390048349">
+<link rel="stylesheet" href="https://yf-liang20.github.io/styles/main.css">
+
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+    <meta name="description" content="只是整理一些笔记资料。">
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+    
+  </head>
+  <body>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://yf-liang20.github.io">
+        <img src="https://yf-liang20.github.io/images/avatar.png?v=1615390048349" class="site-logo">
+        <h1 class="site-title">Angry_Jakeson</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
     </div>
-   </div>
-   <ul class="social-links">
-
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-   </ul>
-   <div class="footer">
-    <div class="by_farbox">
-   一定要认真生活！
-    </div>
-    
-
-    </div>
-   </div>
-  </div>
-  <div class="main">
-      <div class="page-top animated fadeInDown">
-    <div class="nav">
-
-     <li><a  href="/">首页</a></li>
-
-     <li><a  href="/archives">归档</a></li>
-
-     <li><a  href="/tags">标签</a></li>
-
-     <li><a  href="/post/about">关于</a></li>
-
-
-    </div>
-    <div class="information">
-     <div class="back_btn">
-      <li><a class="fa fa-chevron-left" onclick="window.history.go(-1)" style="display:none;"> </a></li>
-     </div>
-    </div>
-   </div>
-   <div class="autopagerize_page_element">
-    <div class="content">
-              
-     <div class="post animated fadeInDown">
-      <div class="post-title">
-       <h3><a href="https://yf-liang20.github.io/post/zheng-zhi-xue-yuan-li-di-er-jiang/">政治学原理第二讲</a></h3>
-      </div>
-      <div class="post-content">
-       <p></p>
-      </div>
-      <div class="post-footer">
-       <div class="meta">
-        <div class="info">
-         <i class="fa fa-sun-o"></i>
-         <span class="date">2021-03-10</span>
-         <i class="fa fa-tag"></i>
-         
-         <a class="tag" href="https://yf-liang20.github.io/tag/KQLjZQYaB/" title="2021春政治学原理">2021春政治学原理 </a>
-         
-        </div>
-       </div>
-      </div>
-     </div>
-       
-     <div class="post animated fadeInDown">
-      <div class="post-title">
-       <h3><a href="https://yf-liang20.github.io/post/zheng-zhi-xue-yuan-li-di-yi-jiang/">政治学原理第一讲</a></h3>
-      </div>
-      <div class="post-content">
-       <p><p>&quot;代为 hello world!&quot;</p>
-</p>
-      </div>
-      <div class="post-footer">
-       <div class="meta">
-        <div class="info">
-         <i class="fa fa-sun-o"></i>
-         <span class="date">2021-03-10</span>
-         <i class="fa fa-tag"></i>
-         
-         <a class="tag" href="https://yf-liang20.github.io/tag/KQLjZQYaB/" title="2021春政治学原理">2021春政治学原理 </a>
-         
-        </div>
-       </div>
-      </div>
-     </div>
-     
-     <div class="pagination">
-      <ul class="clearfix">
-              
-        <li class="pre pagbuttons"><a class="btn" role="navigation" href="https://yf-liang20.github.io/">上一页</a></li>
+    <div>
+      
         
+          <a href="/" class="site-nav">
+            首页
+          </a>
         
-
-      </ul>
-     </div>
+      
+        
+          <a href="/archives" class="site-nav">
+            归档
+          </a>
+        
+      
+        
+          <a href="/tags" class="site-nav">
+            标签
+          </a>
+        
+      
+        
+          <a href="/post/about" class="site-nav">
+            关于
+          </a>
+        
+      
     </div>
-   </div>
   </div>
-  <script src="https://yf-liang20.github.io/media/scripts/jquery.js"></script>
-  <script src="https://yf-liang20.github.io/media/scripts/jquery-migrate-1.2.1.min.js"></script>
-  <script src="https://yf-liang20.github.io/media/scripts/jquery.appear.js"></script>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      只是整理一些笔记资料。
+    </div>
+    <div class="site-footer">
+      一定要认真生活！ | <a class="rss" href="https://yf-liang20.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
 
 
- </body>
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          
+            <article class="post-item">
+              <div class="left">
+                <a href="https://yf-liang20.github.io/post/zheng-zhi-xue-yuan-li-di-er-jiang/">
+                  <h2 class="post-title">政治学原理第二讲</h2>
+                </a>
+                <div class="post-date">
+                  2021-03-10
+                </div>
+                <div class="post-abstract">
+                  
+                </div>
+              </div>
+              
+            </article>
+          
+            <article class="post-item">
+              <div class="left">
+                <a href="https://yf-liang20.github.io/post/zheng-zhi-xue-yuan-li-di-yi-jiang/">
+                  <h2 class="post-title">政治学原理第一讲</h2>
+                </a>
+                <div class="post-date">
+                  2021-03-10
+                </div>
+                <div class="post-abstract">
+                  <p>&quot;代为 hello world!&quot;</p>
+
+                </div>
+              </div>
+              
+            </article>
+          
+
+          <div class="pagination-container">
+  
+    <a href="https://yf-liang20.github.io/" class="prev"><i class="icon-arrow-ios-back-outline"></i> 上一页</a>
+  
+  
+</div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+  <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+  <script>
+    hljs.initHighlightingOnLoad()
+  </script>
+
+
+
+
+
+  </body>
 </html>
