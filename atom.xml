@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yf-liang20.github.io</id>
     <title>Angry_Jakeson</title>
-    <updated>2021-03-11T07:37:35.320Z</updated>
+    <updated>2021-03-11T09:39:59.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yf-liang20.github.io"/>
     <link rel="self" href="https://yf-liang20.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://yf-liang20.github.io/images/avatar.png</logo>
     <icon>https://yf-liang20.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Angry_Jakeson</rights>
+    <entry>
+        <title type="html"><![CDATA[党课小组理论学习]]></title>
+        <id>https://yf-liang20.github.io/post/dang-ke-xiao-zu-li-lun-xue-xi/</id>
+        <link href="https://yf-liang20.github.io/post/dang-ke-xiao-zu-li-lun-xue-xi/">
+        </link>
+        <updated>2021-03-11T09:39:24.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://yf-liang20.github.io/post-images/1615455580048.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国古代政治与文化第一讲]]></title>
         <id>https://yf-liang20.github.io/post/zhong-guo-gu-dai-zheng-zhi-yu-wen-hua-di-yi-jiang/</id>
@@ -89,15 +98,6 @@
         </link>
         <updated>2021-03-10T15:07:30.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://yf-liang20.github.io/post-images/1615388869265.png" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西方思想经典与现代社会第三讲]]></title>
-        <id>https://yf-liang20.github.io/post/xi-fang-si-xiang-jing-dian-yu-xian-dai-she-hui-di-san-jiang/</id>
-        <link href="https://yf-liang20.github.io/post/xi-fang-si-xiang-jing-dian-yu-xian-dai-she-hui-di-san-jiang/">
-        </link>
-        <updated>2021-03-10T12:10:24.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://yf-liang20.github.io/post-images/1615378248283.png" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
