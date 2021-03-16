@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yf-liang20.github.io</id>
     <title>Angry_Jakeson</title>
-    <updated>2021-03-16T05:43:33.895Z</updated>
+    <updated>2021-03-16T09:34:34.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yf-liang20.github.io"/>
     <link rel="self" href="https://yf-liang20.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://yf-liang20.github.io/images/avatar.png</logo>
     <icon>https://yf-liang20.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Angry_Jakeson</rights>
+    <entry>
+        <title type="html"><![CDATA[社会理论第四讲]]></title>
+        <id>https://yf-liang20.github.io/post/she-hui-li-lun-di-si-jiang/</id>
+        <link href="https://yf-liang20.github.io/post/she-hui-li-lun-di-si-jiang/">
+        </link>
+        <updated>2021-03-16T09:33:59.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://yf-liang20.github.io/post-images/1615887260362.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[政治学原理第四讲]]></title>
         <id>https://yf-liang20.github.io/post/zheng-zhi-xue-yuan-li-di-si-jiang/</id>
@@ -89,15 +98,6 @@
         </link>
         <updated>2021-03-10T15:12:42.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://yf-liang20.github.io/post-images/1615389175458.png" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社会理论第二讲]]></title>
-        <id>https://yf-liang20.github.io/post/she-hui-li-lun-di-er-jiang/</id>
-        <link href="https://yf-liang20.github.io/post/she-hui-li-lun-di-er-jiang/">
-        </link>
-        <updated>2021-03-10T15:12:14.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://yf-liang20.github.io/post-images/1615389149329.png" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
