@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yf-liang20.github.io</id>
     <title>L</title>
-    <updated>2021-12-01T11:56:14.235Z</updated>
+    <updated>2021-12-02T03:22:51.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yf-liang20.github.io"/>
     <link rel="self" href="https://yf-liang20.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://yf-liang20.github.io/images/avatar.png</logo>
     <icon>https://yf-liang20.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, L</rights>
+    <entry>
+        <title type="html"><![CDATA[政治哲学第十二讲]]></title>
+        <id>https://yf-liang20.github.io/post/zheng-zhi-zhe-xue-di-shi-er-jiang/</id>
+        <link href="https://yf-liang20.github.io/post/zheng-zhi-zhe-xue-di-shi-er-jiang/">
+        </link>
+        <updated>2021-12-02T02:27:23.000Z</updated>
+        <content type="html"><![CDATA[<p>2021.12.2</p>
+<p>自然爱欲先于性爱欲<br>
+政治：原始爱欲的替代品</p>
+<p>政治共同体的情感基础</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国社会第12讲]]></title>
         <id>https://yf-liang20.github.io/post/zhong-guo-she-hui-di-12-jiang/</id>
@@ -32,7 +44,23 @@
 (2)群体性事件：以利益相关者为主体；以非利益相关者为主体</p>
 <h2 id="二-维稳政治的历史分期">二。维稳政治的历史分期</h2>
 <p>大众动员型信访：1951-1979<br>
-拨乱反正：1979-1981</p>
+拨乱反正：1979-1981<br>
+安定团结（1981第二个历史决议）：1981-1994<br>
+维护稳定：1994（信访洪峰）-2012<br>
+政治重建：2012-</p>
+<h2 id="三-集体行动及其治理的成因-机制和后果">三。集体行动及其治理的成因、机制和后果</h2>
+<p>1.成因<br>
+来自总体治理的弹性：雄心和能力<br>
+权利救济与安定秩序之间的张力<br>
+信访制度的弹性</p>
+<p>2.机制<br>
+（1）。机会主义：去信与上访<br>
+(2).逐级上访与越级上访<br>
+(3).正常上访和异常上访</p>
+<p>在弹性中学习<br>
+上访者：问题化技术（踩线不越线） 问题域的限制<br>
+摆平者：推诿拖延，不能“一次性解决”<br>
+直接实惠、细水长流、区别对待（精准治理）、教育为主、先易后难</p>
 ]]></content>
     </entry>
     <entry>
@@ -245,31 +273,6 @@ rachel</p>
 加尔文教：没有原因的，做事不一定有回报，永远不知道是不是选民</p>
 <p>两个一是玛丽：船员；讲述者<br>
 未必截然分开</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[政治哲学第十讲]]></title>
-        <id>https://yf-liang20.github.io/post/zheng-zhi-zhe-xue-di-shi-jiang/</id>
-        <link href="https://yf-liang20.github.io/post/zheng-zhi-zhe-xue-di-shi-jiang/">
-        </link>
-        <updated>2021-11-18T01:53:34.000Z</updated>
-        <content type="html"><![CDATA[<p>2021.11.18</p>
-<h2 id="会饮场景">会饮场景</h2>
-<p>7个榻，苏格拉底、阿尔西比亚德、阿佳通<br>
-一生，的莫斯<br>
-拉利斯脱粉<br>
-跑赛尼亚斯<br>
-？<br>
-？<br>
-飞的弱</p>
-<p>苏格拉底被设计好了要和一个人同床<br>
-会饮是一个竞赛</p>
-<p>打嗝，故意跳过了苏格拉底的爱者的莫斯<br>
-《伯罗奔尼撒战争史》2.43.1<br>
-伯里克利<br>
-他们宁愿每天都凝视着这座城邦显而易见的强大，并成为它的爱者<br>
-menexenus 238e-239a<br>
-人为大地所生，谷物和小麦养育</p>
 ]]></content>
     </entry>
 </feed>
