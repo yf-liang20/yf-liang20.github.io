@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yf-liang20.github.io</id>
     <title>L</title>
-    <updated>2021-12-02T03:22:51.103Z</updated>
+    <updated>2022-01-18T07:25:54.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yf-liang20.github.io"/>
     <link rel="self" href="https://yf-liang20.github.io/atom.xml"/>
     <subtitle>只是整理一些笔记资料。</subtitle>
     <logo>https://yf-liang20.github.io/images/avatar.png</logo>
     <icon>https://yf-liang20.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, L</rights>
+    <rights>All rights reserved 2022, L</rights>
     <entry>
         <title type="html"><![CDATA[政治哲学第十二讲]]></title>
         <id>https://yf-liang20.github.io/post/zheng-zhi-zhe-xue-di-shi-er-jiang/</id>
@@ -20,6 +20,8 @@
 <p>自然爱欲先于性爱欲<br>
 政治：原始爱欲的替代品</p>
 <p>政治共同体的情感基础</p>
+<p>斐德若-会饮-吕西斯</p>
+<p>计算机、生物——人要成为上帝</p>
 ]]></content>
     </entry>
     <entry>
